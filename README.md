@@ -1,4 +1,4 @@
-# Running the Application
+# Running the Weather Application
 
 1. Run the code in any software such as Visual studio code, Atom, etc, It should direct you to a web browser.
 2. Enter the city name you want to search for
